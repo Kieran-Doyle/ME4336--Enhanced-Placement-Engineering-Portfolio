@@ -11,4 +11,4 @@ Contains weekly work logs of what I do on placement as a digital Mechatronic stu
 - [ ] Worklog 9 
 - [ ] Worklog 10 
 - [ ] Worklog 11 
-- [ ]Worklog 12
+- [ ] Worklog 12
