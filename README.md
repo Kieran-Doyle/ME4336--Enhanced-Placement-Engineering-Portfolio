@@ -12,3 +12,9 @@ Contains weekly work logs of what I do on placement as a digital Mechatronic stu
 - [ ] Worklog 10 
 - [ ] Worklog 11 
 - [ ] Worklog 12
+
+
+|   Week   | Work Log |   Task   |
+|----------|----------|----------|
+|:1:|:white_check_mark:| :white_check_mark:|
+|:2:|:white_check_mark:|:white_check_mark: |
