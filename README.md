@@ -1,5 +1,6 @@
 # ME4336-Enhanced-Placement-Engineering-Portfolio
 Contains weekly work logs of what I do on placement as a digital Mechatronic student. The worklogs will include the skills I develop while working on various project and how i tackle challenges I experience at work
+
 <img width="226" height="108" alt="image" src="https://github.com/user-attachments/assets/46c5b63a-4a41-4f4c-8436-636e2251bc6b" />
 
 ### Documentation of Placement
