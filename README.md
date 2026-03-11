@@ -10,8 +10,8 @@ Contains weekly work logs of what I do on placement as a digital Mechatronic stu
 |2|:white_check_mark:|:white_check_mark:|
 |3|:white_check_mark:|:white_check_mark:|
 |4|:white_check_mark:|:white_check_mark:|
-|5|:white_check_mark:|❌|
-|6|:white_check_mark:|❌|
+|5|:white_check_mark:|:white_check_mark:|
+|6|:white_check_mark:|:white_check_mark:|
 |7|❌|❌|
 |8|❌|❌|
 |9|❌|❌|
@@ -28,3 +28,5 @@ Contains weekly work logs of what I do on placement as a digital Mechatronic stu
 - # Wire Harness Drawing and Soldering
   - Learnt how to create a wire harness drawing on Visio
   - Learnt how to solder a variety of connectors used in aircrafts and test systems
+## 📄 White Paper
+👉 [Read the Industry White Paper](industry_white_paper.md)
