@@ -12,8 +12,8 @@ Contains weekly work logs of what I do on placement as a digital Mechatronic stu
 |4|:white_check_mark:|:white_check_mark:|
 |5|:white_check_mark:|:white_check_mark:|
 |6|:white_check_mark:|:white_check_mark:|
-|7|❌|❌|
-|8|❌|❌|
+|7|:white_check_mark:|:white_check_mark:|
+|8|:white_check_mark:|:white_check_mark:|
 |9|❌|❌|
 |10|❌|❌|
 |11|❌|❌|
